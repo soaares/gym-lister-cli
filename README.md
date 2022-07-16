@@ -24,7 +24,7 @@ I practiced too:
 
 ## Libraries
 
-All the needed libraries to run this project it's stored in requirements.txt.
+All the needed libraries to run this project it's stored in requirements.txt file.
 
 ### Enviroment
 
@@ -35,7 +35,7 @@ You can download Xampp project here:
 - Windows x64 Bit: https://downloadsapachefriends.global.ssl.fastly.net/7.4.29/xampp-windows-x64-7.4.29-1-VC15-installer.exe?from_af=true
 - Linux x64 Bit: https://downloadsapachefriends.global.ssl.fastly.net/7.4.29/xampp-linux-x64-7.4.29-1-installer.run?from_af=true
 
-After install it, you can click on Start button on the MySql row and connect into the database with Beekeer or similar.
+After install it, you can click on Start button on the MySql row and connect into the database with Beekeeper program or similar.
 
 ## Running the project
 
