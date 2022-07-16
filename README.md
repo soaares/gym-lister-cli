@@ -2,7 +2,7 @@
 
 ## About
 
-Gym Lister it's a module who fetch data from a database and retrieve some data from there.
+Gym Lister it's a module who fetch data and print it out on the terminal.
 In this project, it's possible to find clients by the name and by the client's plan.
 On the terminal by typing a name, the lister search for a matching client's name.
 
